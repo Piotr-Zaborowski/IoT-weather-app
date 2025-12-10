@@ -1,1 +1,8 @@
-{"temp": "10.1", "id": "mateusz_szczerbiak"}
+{
+    "id": "mateusz_szczerbiak",
+    "timestamp": "2025-12-10 15:01:23",
+    "temp": "10.1",
+    "wilgotnosc": "85",
+    "cisnienie": "1001.3",
+    "wiatr": "10.1"
+}
