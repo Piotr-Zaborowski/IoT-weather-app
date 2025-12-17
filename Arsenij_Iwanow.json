@@ -1,0 +1,10 @@
+{
+    "id": "Arsenij Iwanow",
+    "location": "Miami",
+    "units": "Celsius",
+    "sources": {
+        "GoWeather": "+24 \u00b0C",
+        "NWS": 25.56,
+        "OpenMeteo": 22.2
+    }
+}
